@@ -20,8 +20,8 @@ A single integer: Maximum net energy collectable from a contiguous block (wrappi
 Constraints:
 1 <= n <= 10^6
 
-### Developed by: Abdur Rahman Basil A H 
-### Register Number: 212223040002
+### Developed by: SANJAI L
+### Register Number: 212223230184
 
 
 ## Algorithm
